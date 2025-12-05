@@ -1,0 +1,10 @@
+body {
+    background: #f8f9fa;
+}
+.card {
+    border-radius: 1rem;
+}
+#loginMessage {
+    color: #dc3545;
+    font-weight: bold;
+}
